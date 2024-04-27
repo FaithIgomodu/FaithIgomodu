@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FaithIgomodu
+- 👋 Hi, I’m FaithIgomodu
 - 👀 I’m interested in Machine leanring and statistical analysis of genomics ,protenomics, metabolomics and transcriptomics 
 - 🌱 I’m currently learning Bioinformatics & Data Analysis
 - 💞️ I’m looking to collaborate on Data visualization of omics data 
