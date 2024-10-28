@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data visualization of omics data 
 - 📫 Reach me on Linkedin 
 - 😄 Pronouns: She / Her 
-- ⚡ Fun fact: Love to learn new languages 
+- ⚡ Fun fact: Love to grow fungi. 
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=FaithIgomodu)](https://github.com/FaithIgomodu)
 
