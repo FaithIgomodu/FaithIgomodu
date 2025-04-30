@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on Data visualization of omics data 
 - 📫 Reach me on Linkedin 
 - 😄 Pronouns: She / Her 
-- ⚡ Fun fact: Love to grow fungi. 
+- ⚡ Fun fact: Love to grow plants. 
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=FaithIgomodu)](https://github.com/FaithIgomodu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaithIgomodu&layout=compact)](https://github.com/FaithIgomodu)
 
 <!---
 FaithIgomodu/FaithIgomodu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
